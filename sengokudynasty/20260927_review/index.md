@@ -14,7 +14,7 @@
 
 大豆も豆全般の一部なので嘘ではないです。
 
-<details><summary>画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 画像を見る</summary>
 
 <img src="images/01.jpg" alt="豪華な肉料理" width="700">
 
@@ -27,7 +27,7 @@
 
 質素な魚料理のレシピは2つなので、3つ目にあたるこのレシピは存在しません。
 
-<details><summary>画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 画像を見る</summary>
 
 <img src="images/02.jpg" alt="質素な魚料理" width="700">
 
@@ -40,7 +40,7 @@
 
 「搾油」の材料が一部記入漏れしていました。
 
-<details><summary>画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 画像を見る</summary>
 
 <img src="images/03.jpg" alt="油" width="700">
 
@@ -63,7 +63,7 @@
 
 採取者の仕事場に村人を割り当てる事でも入手出来ます。
 
-<details><summary>4〜6 まとめて画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 4〜6 まとめて画像を見る</summary>
 
 <img src="images/04-05-06.jpg" alt="樹皮・枝・梶の樹皮" width="700">
 
@@ -77,7 +77,7 @@
 - プレイヤーが井戸にインタラクトして入手する場合(50)
 - 村人に作業を指示して入手する場合(1 x 作業回数 x 各種補正)
 
-<details><summary>画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 画像を見る</summary>
 
 <img src="images/07_1.jpg" alt="水 1" width="700">
 <img src="images/07_2.jpg" alt="水 2" width="700">
@@ -94,7 +94,7 @@
 
 変換レート自体は正しいですが、もろみが奇数個の場合は生産が行えません。
 
-<details><summary>画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 画像を見る</summary>
 
 <img src="images/08_1.jpg" alt="焼酎 1" width="700">
 <img src="images/08_2.jpg" alt="焼酎 2" width="700">
@@ -110,7 +110,7 @@
 - プレイヤーが焼酎蒸留所にインタラクトして入手する場合、もろみ1 → 日本酒2
 - 村人に作業を指示して入手する場合、(4 x 作業回数 x 各種補正)
 
-<details><summary>画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 画像を見る</summary>
 
 <img src="images/09_1.jpg" alt="日本酒 1" width="700">
 <img src="images/09_2.jpg" alt="日本酒 2" width="700">
@@ -122,7 +122,7 @@
 ### 10. [E107](https://docs.google.com/spreadsheets/d/1gPW73jMtGr-aNjO5dE3lQLGo80-4QAqts4DBXBKWeMM/edit#gid=1243711132&range=E107)「僧の被り物」 / [I107](https://docs.google.com/spreadsheets/d/1gPW73jMtGr-aNjO5dE3lQLGo80-4QAqts4DBXBKWeMM/edit#gid=1243711132&range=I107)(要求充足度)
 `150` → `300`
 
-<details><summary>画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 画像を見る</summary>
 
 <img src="images/10.jpg" alt="僧の被り物" width="700">
 
@@ -135,7 +135,7 @@
 
 クラフト場所「小さな乾燥棚」は4個、「大きな乾燥棚」は5個。
 
-<details><summary>画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 画像を見る</summary>
 
 <img src="images/11_1.jpg" alt="紙 1" width="700">
 <img src="images/11_2.jpg" alt="紙 2" width="700">
@@ -149,7 +149,7 @@
 
 材料1(脂肪1+藁1)は4個、材料2(蜜蝋1+藁1)は6個。
 
-<details><summary>画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 画像を見る</summary>
 
 <img src="images/12.jpg" alt="ろうそく" width="700">
 
@@ -174,7 +174,7 @@
 
 漢字の修正。
 
-<details><summary>14〜15 まとめて画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 14〜15 まとめて画像を見る</summary>
 
 <img src="images/14-15.jpg" alt="円筒提灯・小さな提灯" width="700">
 
@@ -187,7 +187,7 @@
 
 同じ設備で作れる「足袋付きの草鞋」と送り仮名が揃っていない罠。
 
-<details><summary>画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 画像を見る</summary>
 
 <img src="images/16.jpg" alt="飾り付きの印籠" width="700">
 
@@ -198,7 +198,7 @@
 ### 17. [E185](https://docs.google.com/spreadsheets/d/1gPW73jMtGr-aNjO5dE3lQLGo80-4QAqts4DBXBKWeMM/edit#gid=1243711132&range=E185)「鴉天狗の面」(名称)
 `鴉天狗の面` → `烏天狗の面`
 
-<details><summary>画像を見る</summary>
+<details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 画像を見る</summary>
 
 <img src="images/17.jpg" alt="鴉天狗の面" width="700">
 
