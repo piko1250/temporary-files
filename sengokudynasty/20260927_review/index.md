@@ -51,17 +51,17 @@
 ### 4. [E66](https://docs.google.com/spreadsheets/d/1gPW73jMtGr-aNjO5dE3lQLGo80-4QAqts4DBXBKWeMM/edit#gid=1243711132&range=E66)「樹皮」 / [L66](https://docs.google.com/spreadsheets/d/1gPW73jMtGr-aNjO5dE3lQLGo80-4QAqts4DBXBKWeMM/edit#gid=1243711132&range=L66)(クラフト場所)
 `大工作業台` → `大工作業台,採集者の仕事場`
 
-採取者の仕事場に村人を割り当てる事でも入手出来ます。
+採集者の仕事場に村人を割り当てる事でも入手出来ます。
 
 ### 5. [E67](https://docs.google.com/spreadsheets/d/1gPW73jMtGr-aNjO5dE3lQLGo80-4QAqts4DBXBKWeMM/edit#gid=1243711132&range=E67)「枝」 / [L67](https://docs.google.com/spreadsheets/d/1gPW73jMtGr-aNjO5dE3lQLGo80-4QAqts4DBXBKWeMM/edit#gid=1243711132&range=L67)(クラフト場所)
 `大工作業台` → `大工作業台,採集者の仕事場`
 
-採取者の仕事場に村人を割り当てる事でも入手出来ます。
+採集者の仕事場に村人を割り当てる事でも入手出来ます。
 
 ### 6. [E68](https://docs.google.com/spreadsheets/d/1gPW73jMtGr-aNjO5dE3lQLGo80-4QAqts4DBXBKWeMM/edit#gid=1243711132&range=E68)「梶の樹皮」 / [L68](https://docs.google.com/spreadsheets/d/1gPW73jMtGr-aNjO5dE3lQLGo80-4QAqts4DBXBKWeMM/edit#gid=1243711132&range=L68)(クラフト場所)
 `大工作業台` → `大工作業台,採集者の仕事場`
 
-採取者の仕事場に村人を割り当てる事でも入手出来ます。
+採集者の仕事場に村人を割り当てる事でも入手出来ます。
 
 <details><summary style="cursor:pointer; font-weight:700; color:#1a73e8; padding:6px 0;">📷 4〜6 まとめて画像を見る</summary>
 
